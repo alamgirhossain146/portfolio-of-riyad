@@ -1,29 +1,30 @@
 .main_layout{
-    width: 960px;
-    height: 800px;
+    width: 900px;
+    height: 500px;
     background-color: green;
     margin: 0 auto;
 }
 .header{
-    width: 960px;
-    height: 150px;
+    width: 900px;
+    height: 500px;
     background-color: gray;
 }
 .image{
-    width: 200px;
-    height: 150px;
+    width: 700px;
+    height: 500px;
    float: left;
 }
 .image img{
-    width: 200px;
-    height: 150px;
+    width: 700px;
+    height: 500px;
    float: left;
 }
 .hello{
-    width: 760px;
-    height: 150px;
+    width: 200px;
+    height: 500px;
    float: left;
    text-align: center;
    font-size: 40px;
-   color: white;
+   color: rgb(252, 230, 35);
+   line-height: 100px;
 }
