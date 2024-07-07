@@ -1,18 +1,29 @@
-.header{
+.main_layout{
     width: 960px;
-    height: 200px;
+    height: 800px;
     background-color: green;
-    color: white;
     margin: 0 auto;
 }
+.header{
+    width: 960px;
+    height: 150px;
+    background-color: gray;
+}
+.image{
+    width: 200px;
+    height: 150px;
+   float: left;
+}
+.image img{
+    width: 200px;
+    height: 150px;
+   float: left;
+}
 .hello{
-    font-size: 40px;
-    text-align: center;
-    color: red;
-}
-#riyad{
-    font-size: 30px;
-    text-align: center;
-    color: white;
-}
+    width: 760px;
+    height: 150px;
+   float: left;
+   text-align: center;
+   font-size: 40px;
+   color: white;
 }
