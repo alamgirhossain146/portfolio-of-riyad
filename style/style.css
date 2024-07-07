@@ -1,0 +1,18 @@
+.header{
+    width: 960px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    margin: 0 auto;
+}
+.hello{
+    font-size: 40px;
+    text-align: center;
+    color: red;
+}
+#riyad{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+}
