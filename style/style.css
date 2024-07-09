@@ -43,26 +43,30 @@
     width: 960px;
     height: 350px;
     float: left;
+    background-image:url(../images/seox.jpg);
 }
 .pqr{
-    width: 200px;
+    width: 760px;
     height: 350px;
     float: left;
 }
 .abc{
-    width: 560px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     float: left;
+    margin-top: 65px;
 }
 .seo{
-    width: 560px;
-    height: 50px;
+    width: 200px;
+    height: 85px;
     float: left;
     text-align: center;
-    font-size: 15px;
+    background-color: black;
+    color: white;
 }
 .abc img{
-    width: 560px;
-    height: 350px;
+    width: 200px;
+    height: 200px;
     float: left;
+    border-radius: 90px;
 }
